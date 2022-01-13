@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Bloodlust';
+  src: url('Bloodlust.svg#Bloodlust') format('svg'),
+       url('Bloodlust.ttf') format('truetype'),
+       url('Bloodlust.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'bloodlust';
+  src: url('bloodlust.eot');
+  src: url('bloodlust.eot?#iefix') format('embedded-opentype'),
+       url('bloodlust.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
